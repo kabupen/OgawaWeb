@@ -1,0 +1,42 @@
+.GainenPDFBox {
+  width: 220px;
+  padding: 0.1em 1em;
+  margin: 2em 0;
+  font-weight: bold;
+  border: solid 3px #D5D5D5;
+  position: fixed; top: 111px; right: 0px; 
+  backGround-color: white
+}
+.GainenPDFBox p {
+  margin: 0; 
+  padding: 0;
+}
+
+.GainenCurrentBox {
+  width: 220px;
+  padding: 0.1em 1em;
+  margin: 2em 0;
+  font-weight: bold;
+  border: solid 3px #D5D5D5;
+  position: fixed; top: 230px; right: 0px; 
+  backGround-color: white
+}
+.GainenCurrentBox p {
+  margin: 0; 
+  padding: 0;
+}
+
+
+.GainenReferenceBox {
+  width: 220px;
+  padding: 0.1em 1em;
+  margin: 2em 0;
+  font-weight: bold;
+  border: solid 3px #D5D5D5;
+  position: fixed; top: 390px; right: 0px; 
+  backGround-color: white
+}
+.GainenCurrentBox p {
+  margin: 0; 
+  padding: 0;
+}

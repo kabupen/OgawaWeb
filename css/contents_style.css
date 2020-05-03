@@ -1,0 +1,16 @@
+
+.contents-section {
+    width: 75%;
+    padding-top: 150px;
+    margin: 10px auto 100px;
+}
+
+.contents-section h3 {
+    font-size: 40px;
+    display:inline-block;
+    background: linear-gradient(transparent 70%, #ffa500 50%);
+}
+
+.contents-section h4 {
+    font-size: 25px;
+}
